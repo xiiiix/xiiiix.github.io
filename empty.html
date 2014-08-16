@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="http://127.0.0.1/oper/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="http://127.0.0.1/oper/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://127.0.0.1/oper/jasny-bootstrap/css/jasny-bootstrap.min.css">
+<script src="http://127.0.0.1/oper/jquery/jquery-2.1.0.min.js"></script>
+<!--<<script src="http://127.0.0.1/oper/jquery/jquery.min.js"></script>-->
+<script src="http://127.0.0.1/oper/jasny-bootstrap/js/jasny-bootstrap.min.js"></script>
+<!---->
+
+<style>
+div{padding: 10px 10px 10px 10px;text-align:justify;line-height:150%;}
+span{padding: 0px 0px 0px 10px;}
+.slug {font-size: 15pt; font-weight: bold}
+.byline { font-style: italic }
+</style>
+
+</head>
+
+<body>
+<div class="input-group margin-bottom-sm">
+<span onclick="saveEdits()" class="input-group-addon"><i class="glyphicon glyphicon-floppy-save"></i></span>
+<span class="input-group-addon"><i class="glyphicon glyphicon-file"></i></span>
+<input id="filenametosave" class="form-control" type="text" placeholder="Nome do Ficheiro">
+</div>
+<div class="fileinput fileinput-new input-group" data-provides="fileinput">
+  <div class="form-control" data-trigger="fileinput"><i class="glyphicon glyphicon-file fileinput-exists"></i> <span class="fileinput-filename"></span></div>
+  <span class="input-group-addon btn btn-default btn-file"><span class="fileinput-new">Select file</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+  <a href="#" class="input-group-addon btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+</div>
+<div class="input-group margin-bottom-sm">
+<form action="upload_file.php" method="post"
+enctype="multipart/form-data">
+<label for="file">Filename:</label>
+<input type="submit" name="submit" value="Submit">
+<input type="file" name="file" id="file">
+</form>
+</div><div><div><a class="btn btn-danger"><i class="fa fa-trash-o fa-lg"></i></a><span contenteditable="true">ï»¿&#13;&#10;</span></div></div></body>
+</html>
+<script>
+$( "a" ).click(function() {
+  $(this).parent().remove();
+//  $(this).next("span").remove();
+//  $(this).remove();
+});
+function saveEdits() {
+
+var htmlString =$( "span" ).text();
+
+var ficheiro=$("#filenametosave").val(); 
+
+$.post("savetofile.php", {content: htmlString, filenametosave: ficheiro}, function(data) {
+alert("Data Loaded: " + data);
+
+} );
+
+}
+</script>

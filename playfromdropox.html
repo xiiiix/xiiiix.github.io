@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <script src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="cffoq83j4vlfe6o"></script>
+</head>
+<body>
+    <div id="container"></div>
+    <a id="link"></a>
+
+    <script>
+        var button = Dropbox.createChooseButton({
+            success: function(files) {
+                var linkTag = document.getElementById('link');
+                linkTag.href = files[0].link;
+                linkTag.textContent = files[0].link;
+            },
+            linkType: 'preview',
+			multiselect: true
+			
+        });
+        document.getElementById('container').appendChild(button);
+    </script>
+</body>
+</html>
