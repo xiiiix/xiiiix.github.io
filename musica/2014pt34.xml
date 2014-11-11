@@ -2,6 +2,11 @@
 	<playlist version='1' xmlns='http://xspf.org/ns/0/' >
 		<trackList>
 			<track>
+				<title>01 Bluesman Of This Town #Serushio</title>
+				<location>https://www.dropbox.com/s/yhh3obt8xe49r61/01-bluesman.of.this.town-album-serushio.webm?raw=1</location>
+				<image>https://www.dropbox.com/s/mg9lupamz5gptf6/01-bluesman.of.this.town-album-serushio.png?raw=1</image>
+			</track>
+			<track>
 				<title>Snow.Girl</title>
 				<location>https://dl.dropboxusercontent.com/s/pyswyi2vmplgx40/01-Snow.Girl_album_Blind.Zero.webm</location>
 				<image>https://www.dropbox.com/s/ngifaja5gvyjoeo/Tigerman-2.jpg?raw=1</image>
