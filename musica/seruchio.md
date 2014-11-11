@@ -15,5 +15,3 @@ title: "Seruchio"
 	<div id="osmplayer"></div>	
 
 
-  </body>
-</html>
