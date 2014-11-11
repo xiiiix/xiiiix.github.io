@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<playlist version='1' xmlns='http://xspf.org/ns/0/' >
+		<trackList>
+			<track>
+				<title>01 Bass Goin' Crazy  #Albert.Ammons</title>
+				<location>https://dl.dropboxusercontent.com/s/9ugf444meet0bh3/01-bass.goin%27.crazy.-album-albert.ammons.flv</location>
+				<image>https://dl.dropboxusercontent.com/s/qetsfuftm9hvaxh/01-bass.goin%27.crazy.-album-albert.ammons.png</image>
+			</track>
+			<track>
+				<title>02 Baby Won'T You Jump With Me  #Lowell.Fulson</title>
+				<location>https://dl.dropboxusercontent.com/s/gb25b7d8vc79d3m/02-baby.won%27t.you.jump.with.me.-album-lowell.fulson.flv</location>
+				<image>https://dl.dropboxusercontent.com/s/vx8r10fpxe9413z/02-baby.won%27t.you.jump.with.me.-album-lowell.fulson.png</image>
+			</track>
+			<track>
+				<title>03 Gonna Send You Back #Eddie.Cleanhead.Vinson</title>
+				<location>https://dl.dropboxusercontent.com/s/m6sr6wq66cijr1c/03-gonna.send.you.back-album-eddie.cleanhead.vinson.flv</location>
+				<image>https://dl.dropboxusercontent.com/s/6dulgzdlc96uo3k/03-gonna.send.you.back-album-eddie.cleanhead.vinson.png</image>
+			</track>
+			<track>
+				<title>04 Married Woman Blues  #Sleepy.John.Estes</title>
+				<location>https://dl.dropboxusercontent.com/s/ya1efs7u3xppd87/04-married.woman.blues.-album-sleepy.john.estes.flv</location>
+				<image>https://dl.dropboxusercontent.com/s/rzf5mdawzx83zjn/04-married.woman.blues.-album-sleepy.john.estes.png</image>
+			</track>
+			<track>
+				<title>05 Downhearted Blues  #Alberta.Hunter</title>
+				<location>https://dl.dropboxusercontent.com/s/xsvmbfe31ox001s/05-downhearted.blues.-album-alberta.hunter.flv</location>
+				<image>https://dl.dropboxusercontent.com/s/y4dky3nn6bqaj00/05-downhearted.blues.-album-alberta.hunter.png</image>
+			</track>
+		</trackList>  
+	</playlist>
