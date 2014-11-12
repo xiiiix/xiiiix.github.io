@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<playlist version='1' xmlns='http://xspf.org/ns/0/' >
+		<trackList>
+			<track>
+				<title>01-mundo-album-pz.png</title>
+				<location>https://dl.dropboxusercontent.com/s/5akddid3cbtjpbo/01-mundo-album-pz.png</location>
+				<image>https://www.dropbox.com/s/5akddid3cbtjpbo/01-mundo-album-pz.png?dl=0</image>
+			</track>
+			<track>
+				<title>01-mundo-album-pz.webm</title>
+				<location>https://dl.dropboxusercontent.com/s/46v09io6yewiquo/01-mundo-album-pz.webm</location>
+				<image>https://www.dropbox.com/s/46v09io6yewiquo/01-mundo-album-pz.webm?dl=0</image>
+			</track>
+			<track>
+				<title>02-sem.ponta.por.onde.se.pegue-album-pz.png</title>
+				<location>https://dl.dropboxusercontent.com/s/qjewf3p9dagiv7s/02-sem.ponta.por.onde.se.pegue-album-pz.png</location>
+				<image>https://www.dropbox.com/s/qjewf3p9dagiv7s/02-sem.ponta.por.onde.se.pegue-album-pz.png?dl=0</image>
+			</track>
+			<track>
+				<title>02-sem.ponta.por.onde.se.pegue-album-pz.webm</title>
+				<location>https://dl.dropboxusercontent.com/s/o38fxxayr1ow929/02-sem.ponta.por.onde.se.pegue-album-pz.webm</location>
+				<image>https://www.dropbox.com/s/o38fxxayr1ow929/02-sem.ponta.por.onde.se.pegue-album-pz.webm?dl=0</image>
+			</track>
+			<track>
+				<title>03-autarquias-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/muapqa21mmjhz3i/03-autarquias-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/muapqa21mmjhz3i/03-autarquias-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>03-autarquias-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/vurxdj99d1r4skt/03-autarquias-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/vurxdj99d1r4skt/03-autarquias-album-pz%20.webm?dl=0</image>
+			</track>
+			<track>
+				<title>04-croquetes-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/gj10va1thc1y9g1/04-croquetes-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/gj10va1thc1y9g1/04-croquetes-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>04-croquetes-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/53sxs31zs1xxwo1/04-croquetes-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/53sxs31zs1xxwo1/04-croquetes-album-pz%20.webm?dl=0</image>
+			</track>
+			<track>
+				<title>05-for.sure-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/leptg1x9zdgxlec/05-for.sure-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/leptg1x9zdgxlec/05-for.sure-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>05-for.sure-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/mzz050udv51f862/05-for.sure-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/mzz050udv51f862/05-for.sure-album-pz%20.webm?dl=0</image>
+			</track>
+			<track>
+				<title>06-o.que.me.vale.es.tu-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/qtac8wdugxsqfsn/06-o.que.me.vale.es.tu-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/qtac8wdugxsqfsn/06-o.que.me.vale.es.tu-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>06-o.que.me.vale.es.tu-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/8zo6otmqmwr4jqt/06-o.que.me.vale.es.tu-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/8zo6otmqmwr4jqt/06-o.que.me.vale.es.tu-album-pz%20.webm?dl=0</image>
+			</track>
+			<track>
+				<title>07-passeio-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/4qakwga69ru3iwt/07-passeio-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/4qakwga69ru3iwt/07-passeio-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>07-passeio-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/zhvwhf14vqml5w3/07-passeio-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/zhvwhf14vqml5w3/07-passeio-album-pz%20.webm?dl=0</image>
+			</track>
+			<track>
+				<title>08-sofa.efervescente-album-pz .png</title>
+				<location>https://dl.dropboxusercontent.com/s/14ld539kfohoj8i/08-sofa.efervescente-album-pz%20.png</location>
+				<image>https://www.dropbox.com/s/14ld539kfohoj8i/08-sofa.efervescente-album-pz%20.png?dl=0</image>
+			</track>
+			<track>
+				<title>08-sofa.efervescente-album-pz .webm</title>
+				<location>https://dl.dropboxusercontent.com/s/fhrmqsw7szc3ojm/08-sofa.efervescente-album-pz%20.webm</location>
+				<image>https://www.dropbox.com/s/fhrmqsw7szc3ojm/08-sofa.efervescente-album-pz%20.webm?dl=0</image>
+			</track>
+		</trackList>  
+	</playlist>
